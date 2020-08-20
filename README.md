@@ -1,5 +1,5 @@
 # Item-Processing
-Read in product codes and quantities to detemine items being purchased. 
+Read in product codes and quantities to determine items being purchased. 
 - Once file is read, Items and quantities are determined, final price is calculated, and Output is displayed 
 
 
